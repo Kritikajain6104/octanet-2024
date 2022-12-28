@@ -3,4 +3,4 @@
 Created a navigation bar
 
 
-![Alt text]("C:\Users\kriti\Pictures\nav2.png" "Optional title")
+![ScreenShot](https://{"C:\Users\kriti\Pictures\nav2.png"})

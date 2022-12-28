@@ -2,5 +2,4 @@
 
 Created a navigation bar
 
-
-![ScreenShot]("C:\Users\kriti\Pictures\nav2.png")
+https://kritikajain6104.github.io/navigation-bar/

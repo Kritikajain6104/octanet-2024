@@ -1,6 +1,6 @@
-## Navigation Bar
+## landing page
 
-Created a navigation bar
+Created a landing page
 
 https://kritikajain6104.github.io/navigation-bar/
 
